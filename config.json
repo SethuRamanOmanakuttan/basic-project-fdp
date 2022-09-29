@@ -1,0 +1,6 @@
+{
+	"PRIVATE_KEY" : "<private-key>",
+	"CONTRACT_ADDRESS" :"<address>",
+	"CHAINSTACK_URL":"<http-endpoint>",
+	"ACCOUNT_ADDRESS" : "<address>"
+}
